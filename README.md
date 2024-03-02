@@ -25,6 +25,8 @@ Before the following instructions, ensure that the myRIO is set up according to 
 - Control the duty cycle and frequency with the labelled dials
 
 ### Note
+If the deployment process raises a conflict, allow it to replace the existing application.
+
 The VI is provided without a project so that it can be added to a connected myRIO project, and to ensure familiarity with that process.
 
 
